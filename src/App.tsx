@@ -1,7 +1,7 @@
 import fotoSamantha from './assets/image_capitu.png'
 import { useState } from 'react'
 
-const WHATSAPP = '5598688574489'
+const WHATSAPP = '558688574489'
 
 const NAV_LINKS = [
   { label: 'Início', id: 'inicio' },
